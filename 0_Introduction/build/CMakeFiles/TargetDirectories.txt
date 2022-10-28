@@ -1,0 +1,5 @@
+/Users/avaidy15/AlgorithmicThinking/0_Introduction/build/CMakeFiles/edit_cache.dir
+/Users/avaidy15/AlgorithmicThinking/0_Introduction/build/CMakeFiles/rebuild_cache.dir
+/Users/avaidy15/AlgorithmicThinking/0_Introduction/build/FoodLines/CMakeFiles/FoodLines.dir
+/Users/avaidy15/AlgorithmicThinking/0_Introduction/build/FoodLines/CMakeFiles/edit_cache.dir
+/Users/avaidy15/AlgorithmicThinking/0_Introduction/build/FoodLines/CMakeFiles/rebuild_cache.dir

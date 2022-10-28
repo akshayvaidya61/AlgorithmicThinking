@@ -1,0 +1,3 @@
+/Users/avaidy15/AlgorithmicThinking/1_HashTables/UniqueSnowflake_C/build/CMakeFiles/UniqueSnowFlake.dir
+/Users/avaidy15/AlgorithmicThinking/1_HashTables/UniqueSnowflake_C/build/CMakeFiles/edit_cache.dir
+/Users/avaidy15/AlgorithmicThinking/1_HashTables/UniqueSnowflake_C/build/CMakeFiles/rebuild_cache.dir
